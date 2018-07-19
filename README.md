@@ -1,1 +1,1 @@
-Robutsuri Programming DOJO test
+Robutsuri Programming DOJO 配布用レポジトリ
